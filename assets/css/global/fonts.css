@@ -1,0 +1,17 @@
+/* Fontes */
+
+@font-face {
+  font-family: 'awakenning';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://files.lecdt.com/fonts/awakenning.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'clarikaExtrabold';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://files.lecdt.com/fonts/clarika-extrabold.woff') format('woff');
+}
