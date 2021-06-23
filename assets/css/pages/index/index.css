@@ -4,4 +4,5 @@
 
 /* Partials */
 
+@import './partials/loading.css';
 @import './partials/header.css';
